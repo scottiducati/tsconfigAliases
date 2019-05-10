@@ -6,6 +6,8 @@ Function to copy your tsconfig.json aliases into the resolve section into webpac
 
 ```javascript
 
+// webpack.config.js
+
 module.exports = {
     ...
     resolve : {
